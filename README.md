@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
-**Name:**Mohammed Shahid
-**Roll Number:**R25EF149
+**Name:** Mohammed Shahid  
+**Roll Number:** R25EF149
 
 Personal LeetCode practice log — part of B25GE0101 portfolio
 
